@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <Navbar />
-
+      <div>Hello</div>
       <div className=" bg-slate-200 bg-[linear-gradient(to_right,#fff_1px,transparent_1px),linear-gradient(to_bottom,#fff_1px,transparent_1px)] bg-[size:6rem_4rem]">
         <Manager />
       </div>
